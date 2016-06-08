@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:25.577772
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:25
 #+TITLE: 佛說北斗七星延命經
 #+PROPERTY: CBETA_ID T21n1307
 #+PROPERTY: ID KR6j0538
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1307
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0538_T_001-0425b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1307¶
-
- 佛說北斗七星延命經¶
+No. 1307¶
+佛說北斗七星延命經¶
 ¶
 婆羅門僧將到此經唐朝受持¶
 
